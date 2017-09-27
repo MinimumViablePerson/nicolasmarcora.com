@@ -16,21 +16,21 @@
 pagetitle {
     padding: 300px 0;
     grid-area: title;
-    /* background: #666; */
+    background: #666;
     text-align: center;
 }
 
 side {
     grid-area: side;
-    /* background: #999; */
+    background: #999;
 }
 
 content {
     grid-area: content;
-    /* background: #ccc; */
+    background: #ccc;
 }
 
 footer {
     grid-area: footer;
-    /* background: #ddd; */
+    background: #ddd;
 }
